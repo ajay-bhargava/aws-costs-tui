@@ -41,13 +41,13 @@ A beautiful, colorful terminal user interface for viewing your AWS costs from Co
 ### Quick Install (if you have Rust)
 
 ```bash
-cargo install --git https://github.com/YOUR_USERNAME/aws-costs-tui
+cargo install --git https://github.com/ajay-bhargava/aws-costs-tui
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aws-costs-tui.git
+git clone https://github.com/ajay-bhargava/aws-costs-tui.git
 cd aws-costs-tui
 cargo install --path .
 ```
